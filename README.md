@@ -3,7 +3,7 @@
 ![skin_detection](results.jpg)
 
 
-This project presents a facial skin detection method, based on a deep learning architecture,  that is able to precisely associate a skin label to each pixel of a given image depicting a face. This isan important preliminary step in many applications, such as remote photoplethysmography (rPPG) in which the hearth rate of a subject needs to be estimated analyzing a video of his/her face. The proposed method can detect skin pixels even in low resolution grayscale face images (64x32 pixel). 
+This project presents a facial skin detection method, based on a deep learning architecture,  that is able to precisely associate a skin label to each pixel of a given image depicting a face. This is an important preliminary step in many applications, such as remote photoplethysmography (rPPG) in which the hearth rate of a subject needs to be estimated analyzing a video of his/her face. The proposed method can detect skin pixels even in low resolution grayscale face images (64x32 pixel). 
 
 ## Model
 
