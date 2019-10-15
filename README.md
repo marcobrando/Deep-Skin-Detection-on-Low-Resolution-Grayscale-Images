@@ -11,11 +11,11 @@ The trained keras model could be find in "model/net.h5"
 
 ## Data
 
-Labeled face segmentation data could be find in "data/GT". This are skin mask automaticly obtained from the MUCT and Helen dataset. These datasets are downloadable at http://www.milbo.org/muct/ and http://www.ifp.illinois.edu/~vuongle2/helen/ respectivly.
+Labeled face segmentation data could be find in "data/GT". This are skin mask obtained from the MUCT and Helen dataset. These datasets are downloadable at http://www.milbo.org/muct/ and http://www.ifp.illinois.edu/~vuongle2/helen/ respectivly. Training labeled were obtained automatically (so there could be some errors), while testing ones were manually labeled.
 
 ## Dependencies
 
-Python, Opencv, Keras, Tensorflow
+Python, Opencv, numpy, Keras, Tensorflow
 
 ## Testing the dataset
 
