@@ -5,6 +5,20 @@
 
 This project presents a facial skin detection method, based on a deep learning architecture,  that is able to precisely associate a skin label to each pixel of a given image depicting a face. This is an important preliminary step in many applications, such as remote photoplethysmography (rPPG) in which the hearth rate of a subject needs to be estimated analyzing a video of his/her face. The proposed method can detect skin pixels even in low resolution grayscale face images (64x32 pixel). 
 
+## Citation
+
+If you find this project useful to your research or if you want to use our dataset, please consider citing our paper as
+
+@article{PARACCHINI2020,
+  title = "Deep Skin Detection on Low Resolution Grayscale Images",
+  journal = "Pattern Recognition Letters",
+  year = "2020",
+  issn = "0167-8655",
+  doi = "https://doi.org/10.1016/j.patrec.2019.12.021",
+  url = "http://www.sciencedirect.com/science/article/pii/S0167865519303964",
+  author = "\textbf{Marco Paracchini} and Marco Marcon and Federica Villa and Stefano Tubaro",
+  }
+
 ## Model
 
 The trained keras model could be find in "model/net.h5"
