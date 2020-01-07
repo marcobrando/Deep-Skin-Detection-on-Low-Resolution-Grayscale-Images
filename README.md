@@ -9,6 +9,8 @@ This project presents a facial skin detection method, based on a deep learning a
 
 If you find this project useful to your research or if you want to use our dataset, please consider citing our paper as
 
+
+```
 @article{PARACCHINI2020,
   title = "Deep Skin Detection on Low Resolution Grayscale Images",
   journal = "Pattern Recognition Letters",
@@ -18,6 +20,7 @@ If you find this project useful to your research or if you want to use our datas
   url = "http://www.sciencedirect.com/science/article/pii/S0167865519303964",
   author = "\textbf{Marco Paracchini} and Marco Marcon and Federica Villa and Stefano Tubaro",
   }
+```
 
 ## Model
 
