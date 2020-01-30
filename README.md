@@ -11,15 +11,17 @@ If you find this project useful to your research or if you want to use our datas
 
 
 ```
-@article{PARACCHINI2020,
-  title = "Deep Skin Detection on Low Resolution Grayscale Images",
-  journal = "Pattern Recognition Letters",
-  year = "2020",
-  issn = "0167-8655",
-  doi = "https://doi.org/10.1016/j.patrec.2019.12.021",
-  url = "http://www.sciencedirect.com/science/article/pii/S0167865519303964",
-  author = "\textbf{Marco Paracchini} and Marco Marcon and Federica Villa and Stefano Tubaro",
-  }
+@article{PARACCHINI2020322,
+title = "Deep skin detection on low resolution grayscale images",
+journal = "Pattern Recognition Letters",
+volume = "131",
+pages = "322 - 328",
+year = "2020",
+issn = "0167-8655",
+doi = "https://doi.org/10.1016/j.patrec.2019.12.021",
+url = "http://www.sciencedirect.com/science/article/pii/S0167865519303964",
+author = "Marco Paracchini and Marco Marcon and Federica Villa and Stefano Tubaro"
+}
 ```
 
 ## Model
