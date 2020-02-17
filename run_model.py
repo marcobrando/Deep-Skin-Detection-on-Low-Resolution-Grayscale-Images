@@ -15,7 +15,8 @@ img = cv2.imread(filename_image)
 img = cv2.resize(img, (128, 128), interpolation = cv2.INTER_CUBIC)
 lab_image = cv2.cvtColor(img, cv2.COLOR_BGR2LAB)
 gray_img = lab_image[:,:,0]/255.0
-x[i,:,:,0] = gray_img
+x = np.zeros((1, 128, 128, 1),np.float)
+x[0,:,:,0] = gray_img
 y_pred = model.predict(x)
 mask = 255*(y_pred[0,:,:,0])
 cv2.imwrite('res.png',mask)
