@@ -24,6 +24,10 @@ author = "Marco Paracchini and Marco Marcon and Federica Villa and Stefano Tubar
 }
 ```
 
+## Youtube presentation
+
+[![Watch the presentation here](https://img.youtube.com/vi/Tg248V7pXLk/0.jpg)](https://www.youtube.com/watch?v=Tg248V7pXLk)
+
 ## Model
 
 The trained keras model could be find in "model/net.h5"
